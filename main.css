@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    
+}
+#yazi{
+    margin: 80px;
+    padding: 20px;
+    width: 300px;
+    font-size: 25px;
+    background: blue;
+    color: aliceblue;
+    border: solid 3px wheat;
+
+}
